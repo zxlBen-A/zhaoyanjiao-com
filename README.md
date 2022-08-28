@@ -16,7 +16,6 @@
     ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white)
     ![IntelliJ](https://img.shields.io/badge/Intellij_Idea-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
     ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-    ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
     ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   - 🌱 Learning all about:
     ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
