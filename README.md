@@ -1,6 +1,6 @@
 - # 👋 zxlBen
 
-  I'm ChetSerenade, a front-end developer.
+  I'm zxlBen, a front-end developer.
   [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ChetSerenade)
 
   - 🚀 I use daily:
