@@ -4,6 +4,7 @@
   [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ChetSerenade)
 
   - 🚀 I use daily:
+  - ![Vue](https://img.shields.io/badge/-Vue-brightgreen?style=plastic&logo=vue)
     ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
     ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=typescript&logoColor=white)
     ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)
