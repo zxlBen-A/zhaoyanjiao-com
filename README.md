@@ -1,7 +1,7 @@
 - # 👋 zxlBen
 
-// I'm zxlBen, a front-end developer.
-  //[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ChetSerenade)
+ I'm zxlBen, a front-end developer.
+ [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ChetSerenade)
   
 
   - 个人博客：https://zxlben.me/
