@@ -4,7 +4,7 @@
  [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ChetSerenade)
   
 
-  - 个人博客：https://zxlben.me/
+  - 个人博客：https://zxlben.top/
   - 掘金：https://juejin.cn/user/1926764731042791
   - 🚀 I use daily:
   - ![Vue.js](https://img.shields.io/badge/-Vue-brightgreen?style=flat&logo=vuedotjs&logoColor=white)
