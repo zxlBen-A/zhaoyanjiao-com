@@ -30,7 +30,7 @@
   <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-<details open>
+<!-- <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
@@ -38,3 +38,4 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoyanjiao-com&theme=calm&hide_border=true">
 </p>
 </details>
+ -->
